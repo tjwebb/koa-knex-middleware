@@ -1,5 +1,5 @@
 {
-  "name": "koa-knex-middleware",
+  "name": "koa-knex",
   "version": "0.5.13",
   "description": "knex.js middleware for Koa",
   "main": "index.js",

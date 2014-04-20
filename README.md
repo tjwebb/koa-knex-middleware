@@ -3,10 +3,10 @@ koa-knex-middleware
 
 Knex.js Middleware for Koa
 
-### 0. Installation (via [npm](https://npmjs.org/package/koa-knex-middleware))
+### 0. Installation (via [npm](https://npmjs.org/package/koa-knex))
 
 ```bash
-  $ npm install koa-knex-middleware --save
+  $ npm install koa-knex --save
 ```
 
 ### 1. Usage (contrived example)
@@ -14,7 +14,7 @@ Knex.js Middleware for Koa
 ```javascript
 
   var _ = require('koa-route');
-  var knex = require('koa-knex-middleware');
+  var knex = require('koa-knex');
   ...
   app.use(knex({
     client: 'pg',
