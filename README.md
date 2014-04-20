@@ -1,7 +1,7 @@
 koa-knex-middleware
 ===================
 
-Knex.js Middleware for Koa
+Knex.js Middleware for Koa. Package is versioned in step with <http://knexjs.org/#changelog>
 
 ### 0. Installation (via [npm](https://npmjs.org/package/koa-knex))
 
