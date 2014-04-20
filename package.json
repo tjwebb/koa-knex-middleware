@@ -1,0 +1,26 @@
+{
+  "name": "koa-knex-middleware",
+  "version": "0.5.13",
+  "description": "knex.js middleware for Koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tjwebb/koa-knex-middleware.git"
+  },
+  "keywords": [
+    "knex",
+    "knexjs",
+    "koa",
+    "koajs",
+    "koa-middleware"
+  ],
+  "author": "Travis Webb <me@traviswebb.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjwebb/koa-knex-middleware/issues"
+  },
+  "homepage": "https://github.com/tjwebb/koa-knex-middleware"
+}
