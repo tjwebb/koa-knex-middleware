@@ -1,6 +1,6 @@
 {
   "name": "koa-knex",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "description": "knex.js middleware for Koa",
   "main": "index.js",
   "scripts": {
