@@ -25,7 +25,7 @@ Knex.js Middleware for Koa. Package is versioned in step with <http://knexjs.org
 
   app.use(_.get('/:userid', function *(userid) {
     this.body = {
-      profile: this.knex('users').where('id', userid);
+      profile: yield this.knex('users').where('id', userid);
     };
   });
 
