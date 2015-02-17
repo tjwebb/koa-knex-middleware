@@ -1,6 +1,9 @@
 koa-knex-middleware
 ===================
 
+[![NPM version][npm-image]][npm-url]
+[![Dependency Status][daviddm-image]][daviddm-url]
+
 Knex.js Middleware for Koa. Package is versioned in step with <http://knexjs.org/#changelog>
 
 ### 0. Installation (via [npm](https://npmjs.org/package/koa-knex))
@@ -47,8 +50,9 @@ The following environment variables will be automatically used for the Knex.js c
   
 ### License
 
-[MIT License](http://www.opensource.org/licenses/mit-license.php)
+[MIT](http://www.opensource.org/licenses/mit-license.php)
 
-### Author
-
-[Travis Webb](https://github.com/tjwebb) ([me@traviswebb.com](mailto:me@traviswebb.com))
+[npm-image]: https://img.shields.io/npm/v/koa-knex-middleware.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/koa-knex-middleware
+[daviddm-image]: http://img.shields.io/david/tjwebb/koa-knex.svg?style=flat-square
+[daviddm-url]: https://david-dm.org/tjwebb/koa-knex

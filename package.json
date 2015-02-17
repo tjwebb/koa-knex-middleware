@@ -15,7 +15,9 @@
     "knexjs",
     "koa",
     "koajs",
-    "koa-middleware"
+    "koa-middleware",
+    "middleware",
+    "es6"
   ],
   "author": "Travis Webb <me@traviswebb.com>",
   "license": "MIT",
