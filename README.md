@@ -47,7 +47,7 @@ The following environment variables will be automatically used for the Knex.js c
   KOA_KNEX_SSL
   KOA_KNEX_DEBUG
 ```
-  
+
 ### License
 
 [MIT](http://www.opensource.org/licenses/mit-license.php)
