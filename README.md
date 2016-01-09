@@ -24,7 +24,7 @@ Knex.js Middleware for Koa. Package is versioned in step with <http://knexjs.org
     connection: {
       /** typical knex connection object */
     }
-  });
+  }));
 
   app.use(_.get('/:userid', function *(userid) {
     this.body = {
@@ -47,7 +47,7 @@ The following environment variables will be automatically used for the Knex.js c
   KOA_KNEX_SSL
   KOA_KNEX_DEBUG
 ```
-  
+
 ### License
 
 [MIT](http://www.opensource.org/licenses/mit-license.php)
